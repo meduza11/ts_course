@@ -6,6 +6,7 @@ class School {
     }
 }
 
+
 class Direction {
     private _name: string;
     levels: any = [];
